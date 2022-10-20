@@ -1,2 +1,5 @@
-package Text;public class test {
+package Text;
+
+public class test {
+
 }
