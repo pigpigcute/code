@@ -1,0 +1,10 @@
+# ninja log v5
+3	56	6879680781728793	CMakeFiles/ClionProjects.dir/main.cpp.obj	45c79c83ffa85d78
+5	780	6879672331551982	CMakeFiles/ClionProjects.dir/main2.cpp.obj	e55903ad273484ab
+245	399	6879684835005661	ClionProjects.exe	56d867b316feb121
+4	749	6879664306602180	CMakeFiles/ClionProjects.dir/cry.cpp.obj	f1ae4b09925d2d98
+1	151	6879688338757421	build.ninja	84f4243d6723a54a
+0	242	6879684833465312	CMakeFiles/ClionProjects.dir/text1.cpp.obj	345c12e6ccea49df
+0	136	6879688338757421	build.ninja	84f4243d6723a54a
+0	749	6879688346439169	CMakeFiles/ClionProjects.dir/main.cpp.obj	45c79c83ffa85d78
+754	961	6879688348529643	ClionProjects.exe	21eb8589b7cc9d71
