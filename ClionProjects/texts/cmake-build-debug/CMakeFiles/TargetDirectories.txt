@@ -1,0 +1,4 @@
+D:/code/ClionProjects/texts/cmake-build-debug/CMakeFiles/texts.dir
+D:/code/ClionProjects/texts/cmake-build-debug/CMakeFiles/LC.dir
+D:/code/ClionProjects/texts/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/ClionProjects/texts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
